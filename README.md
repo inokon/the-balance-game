@@ -24,6 +24,8 @@ Android: just copy the apk file from the android version folder to your android 
 
 Desktop: make sure you have at least Java jre6 or newer version, and just run the jar file inside the desktop version folder.
 
+Download Builds: you can find the zip file of builds in the Downloads section on this repository (for desktop version, just make sure you extract all the files before executing the jar, otherwise it may not run at all).
+
 
 - Gameplay and Commands
 

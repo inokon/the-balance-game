@@ -7,7 +7,7 @@ Author: Simone Autore (aka Sippolo)
 
 The Balance Game is a Desktop/Android game born with the idea of balancing in mind, with a good variety of stages decently difficult to win, a very simple gameplay and nice graphics.
 The game makes use of the most awesome cross-platform Java game/graphics development framework: LibGDX Framework: http://libgdx.badlogicgames.com/
-It also makes use of the great Box2dLights and Bloom libraries from kalle.h: http://code.google.com/p/box2dlights/  http://code.google.com/p/bloom-lib/
+It also makes use of the great Box2dLights library from kalle.h: http://code.google.com/p/box2dlights/
 
 
 ALPHA STAGE NOTE: please note that this game is still in alpha stage, and unfortunately the development has halted some time ago, so I decided to make it open source for you for learning purposes or even if you decide to fork it and complete it. You're free to do anything with this source, just follow the license here included (Apache License 2.0), though I'd really appreciate if you let me know whenever you'd be doing cool stuff with this project!
